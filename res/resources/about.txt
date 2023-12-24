@@ -1,0 +1,11 @@
+A la fecha soy un joven estudiante de la Universidad nacional de Ingenieria, cree esta herramienta 
+durante el segundo semestre del anio 2022. Empezo como un simple script que yo utilizaba con linea de
+comandos para ayudarme a hacer animaciones en C ya que, el proceso manual era demasiado tedioso y 
+largo, eso me dio la idea de automatizar la tarea para que un programa lo hiciese por mi. 
+
+Con el tiempo decidi convertirlo en algo util y compartirlo con la Universidad y los chicos que
+vayan a darle uso y creo que tu puedes hacer lo mismo por los demas, nunca dejes que tus miedos
+te detengan y siempre cree en ti mismo, eres mas capaz de lo que crees <3. 
+Te recomiendo que leas como se usa con el boton "!"
+
+- Dorian Gabriel Bonilla Gutierrez 2021-0110U 11 de Agosto de 2023

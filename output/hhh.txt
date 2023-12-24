@@ -1,0 +1,30 @@
+int poligono1(int x, int y, int color){
+    int col_ant;
+    col_ant = getcolor();
+    setcolor(color);
+    line(281-245 + x,97-63 + y,432-245 + x,131-63 + y);
+    line(432-245 + x,131-63 + y,412-245 + x,243-63 + y);
+    line(412-245 + x,243-63 + y,272-245 + x,243-63 + y);
+    line(272-245 + x,243-63 + y,245-245 + x,131-63 + y);
+    line(245-245 + x,131-63 + y,285-245 + x,63-63 + y);
+    line(285-245 + x,63-63 + y,281-245 + x,97-63 + y);
+    line(281-245 + x,97-63 + y,281-245 + x,97-63 + y);
+    setcolor(col_ant);
+    return 0;
+}
+int poli2(int x, int y, int color){
+    int col_ant;
+    col_ant = getcolor();
+    setcolor(color);
+    line(307-159 + x,157-83 + y,430-159 + x,122-83 + y);
+    line(430-159 + x,122-83 + y,435-159 + x,291-83 + y);
+    line(435-159 + x,291-83 + y,190-159 + x,285-83 + y);
+    line(190-159 + x,285-83 + y,159-159 + x,83-83 + y);
+    line(159-159 + x,83-83 + y,261-159 + x,225-83 + y);
+    line(261-159 + x,225-83 + y,274-159 + x,114-83 + y);
+    line(274-159 + x,114-83 + y,321-159 + x,214-83 + y);
+    line(321-159 + x,214-83 + y,307-159 + x,157-83 + y);
+    line(307-159 + x,157-83 + y,307-159 + x,157-83 + y);
+    setcolor(col_ant);
+    return 0;
+}

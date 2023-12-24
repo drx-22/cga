@@ -1,0 +1,27 @@
+1. Para que sirve C Graph Assistant?
+    Asiste en la creacion de animaciones en C
+
+2. Como funciona C Graph Assistant (CGA)?
+    Esta herramienta trabaja en conjunto con otra herramienta llamada CalPoly, esta ultima sirve
+    para crear arreglos de puntos para hacer dibujos en C (Revisa su tutorial para mas informacion).
+    CalPoly emite archivos de texto que contienen los arreglos de puntos de coordenadas para tu 
+    dibujo, CGA se encarga de crear una funcion con todos los arreglos de puntos del archivo 
+    que emite CalPoly, esta funcion ademas admite pasarle 3 parametros: "x", "y" y "color" con
+    esto puedes dibujar tu figura en cualquier parte de la pantalla, con cualquier color solo 
+    pasandole los parametros correctos, ademas de ahorrar memoria durante ejecucion del programa 
+    eliminando la necesidad de tener el arreglo original y ahora dibujar la figura atravez de la 
+    nueva funcion.
+
+3. Como se usa?
+    Solo tienes que especificar la ruta del archivo, ya sea de forma manual o usando el boton de 
+    seleccion de ruta, una vez hecho eso el programa generara un archivo de texto, asi que
+    deberas de proporcionar un nombre para este, tu archivo podras encontrarlo en la carpeta "output"
+    que esta en la misma carpeta del programa, NO MUEVAS NADA DE LUGAR ya que si lo haces
+    CGA tendra problemas para crear tu archivo.
+
+4. De nada
+    Aparte de haberte salvado de mucho trabajo, tambien comparto el codigo fuente de la herramienta
+    el cual podras hallar en la carpeta "res>resources > src"
+
+
+    
